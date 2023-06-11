@@ -1,0 +1,12 @@
+[submodule "MS-01-gateway"]
+	path = MS-01-gateway
+	url = https://github.com/wellingtonhiago/MS-01-gateway
+[submodule "MS-01-server"]
+	path = MS-01-server
+	url = https://github.com/wellingtonhiago/MS-01-server.git
+[submodule "MS-01-pagamentos"]
+	path = MS-01-pagamentos
+	url = https://github.com/wellingtonhiago/MS-01-pagamentos.git
+[submodule "MS-01-pedidos"]
+	path = MS-01-pedidos
+	url = https://github.com/wellingtonhiago/MS-01-pedidos.git
